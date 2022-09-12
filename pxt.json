@@ -4,12 +4,14 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-my-blocks": "pkg:pxt-my-blocks.json"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "pxt-my-blocks.json"
     ],
     "testFiles": [
         "test.ts"
@@ -21,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
