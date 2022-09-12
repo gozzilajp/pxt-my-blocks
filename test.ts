@@ -2,8 +2,8 @@
 basic.showString('test');
 basic.forever(function() {
 	const temp = input.temperature();
-	const fValue = myBolocks.convertTemperature(temp, TempConvertType.CtoF);
-	const cValue = myBolocks.convertTemperature(temp, TempConvertType.FtoC);
+	const fValue = myBlocks.convertTemperature(temp, TempConvertType.CtoF);
+	const cValue = myBlocks.convertTemperature(temp, TempConvertType.FtoC);
 	basic.showString('T:');
 	basic.showNumber(temp);
 	basic.showString('C:');
