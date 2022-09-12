@@ -1,6 +1,6 @@
 {
-  "TempConvertType.CtoF|block": "°C -> °F",
-  "TempConvertType.FtoC|block": "°F -> °C",
+  "TempConvertType.CtoF|block": "°C から °F",
+  "TempConvertType.FtoC|block": "°F から °C",
   "myBlocks.convertTemperature|block": "convert|%value|%convertType",
-  "{id:category}MyBlocks": "MyBlocks"
+  "{id:category}MyBlocks": "マイブロック"
 }
