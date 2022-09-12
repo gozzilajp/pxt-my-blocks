@@ -25,6 +25,6 @@ namespace myBlocks {
 
 	//% shim=myBlocks::fToC
 	function fToC(value:number){
-        return 32.0;
+        return -17.78;
 	}
 }
